@@ -1,0 +1,6 @@
+librosa
+matplotlib
+numpy
+pydub
+pandas
+reportlab
